@@ -7,6 +7,7 @@ import {
   AllowContainer,
   StudentContainer,
 } from "./Container/index";
+import { Background} from "./Styles"
 import { Footer, Header } from "./Components/index";
 import { createBrowserHistory } from "history";
 
