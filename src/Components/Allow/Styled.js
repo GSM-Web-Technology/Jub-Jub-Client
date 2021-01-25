@@ -117,6 +117,13 @@ export const ModalText = styled.div`
     font-weight: bold;
 `;
 
+export const BtnBox = styled.div`
+  width:100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+`
+
 export const CheckBtn = styled.button`
     width: 100px;
     height: 65px;
@@ -125,6 +132,5 @@ export const CheckBtn = styled.button`
     border-radius: 10px;
     text-align: center;
     font-size: 24px;
-    margin-top: 40px;
     border: none;
 `;
